@@ -2,7 +2,7 @@
 
 HK Music Player is a simple yet efficient Android music player application built using Java. It allows users to play, pause, seek, and adjust the volume of their favorite songs with a user-friendly interface.
 
-## 📱 Features
+## 📱 Features:
 
 - 🎶 **Play/Pause Music**: Toggle between play and pause with a single button.
 - ⏳ **Seek Functionality**: Navigate through the song using the seek bar.
@@ -10,7 +10,7 @@ HK Music Player is a simple yet efficient Android music player application built
 - 🔁 **Looping Support**: The music plays in a continuous loop.
 - ⏱ **Time Display**: Shows the current playback time and total song duration.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 - **Language**: Java ☕
 - **Android SDK**: MediaPlayer, SeekBar, Button, TextView
@@ -57,3 +57,13 @@ HK Music Player is a simple yet efficient Android music player application built
  ┣ 📜 gradle.properties                  # Gradle properties file  
  ┣ 📜 settings.gradle                    # Gradle settings  
  ┣ 📜 gradlew                            # Gradle wrapper script  
+
+## 💡Future Enhancements:
+- 🎨 Improved UI with Material Design.
+- 🎚️ Equalizer Support.
+- 📂 Multiple Song Selection.
+- 🎼 Playlist Creation.
+
+## 🤝 Contributing:
+Contributions are welcome! If you'd like to improve the app, feel free to fork the repository and submit a pull request.
+
