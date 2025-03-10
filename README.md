@@ -20,8 +20,18 @@ HK Music Player is a simple yet efficient Android music player application built
 
 ![Music Player UI](https://github.com/Harshal-25C/HkMusicPlayerApp/blob/main/HkMusicPlayerApp.png)
 
-## 🚀 Getting Started
+## 🚀Project Structure: 
+📦 HKMusicPlayerApp
+ ┣ 📂 app
+ ┃ ┣ 📂 src
+ ┃ ┃ ┣ 📂 main
+ ┃ ┃ ┃ ┣ 📂 java/com/example/hkmusicplayerapp
+ ┃ ┃ ┃ ┃ ┣ 📜 MainActivity.java
+ ┃ ┃ ┃ ┣ 📂 res
+ ┃ ┃ ┃ ┃ ┣ 📂 drawable  # Icons (play, pause)
+ ┃ ┃ ┃ ┃ ┣ 📂 layout    # UI XML files
+ ┃ ┃ ┃ ┃ ┣ 📂 raw       # Audio files
+ ┃ ┃ ┃ ┃ ┣ 📜 AndroidManifest.xml
+ ┃ ┣ 📜 build.gradle
+ ┣ 📜 README.md
 
-### Prerequisites
-- Android Studio installed on your system.
-- A basic understanding of Java and Android development.
