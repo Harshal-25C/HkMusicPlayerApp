@@ -21,7 +21,7 @@ HK Music Player is a simple yet efficient Android music player application built
 ![Music Player UI](https://github.com/Harshal-25C/HkMusicPlayerApp/blob/main/HkMusicPlayerApp.png)
 
 ## 🚀Project Structure: 
-📦 HKMusicPlayerApp
+📦 HKMusicPlayerApp \n
  ┣ 📂 app
  ┃ ┣ 📂 src
  ┃ ┃ ┣ 📂 main
