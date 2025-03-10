@@ -26,12 +26,24 @@ HK Music Player is a simple yet efficient Android music player application built
  ┃ ┣ 📂 src
  ┃ ┃ ┣ 📂 main
  ┃ ┃ ┃ ┣ 📂 java/com/example/hkmusicplayerapp
- ┃ ┃ ┃ ┃ ┣ 📜 MainActivity.java
+ ┃ ┃ ┃ ┃ ┣ 📜 MainActivity.java       # Main Activity file (Java Code)
  ┃ ┃ ┃ ┣ 📂 res
- ┃ ┃ ┃ ┃ ┣ 📂 drawable  # Icons (play, pause)
- ┃ ┃ ┃ ┃ ┣ 📂 layout    # UI XML files
- ┃ ┃ ┃ ┃ ┣ 📂 raw       # Audio files
- ┃ ┃ ┃ ┃ ┣ 📜 AndroidManifest.xml
- ┃ ┣ 📜 build.gradle
- ┣ 📜 README.md
+ ┃ ┃ ┃ ┃ ┣ 📂 drawable                # Images and icons (e.g., play, pause button)
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜 play.png
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜 pause.png
+ ┃ ┃ ┃ ┃ ┣ 📂 layout                  # XML Layout files
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜 activity_main.xml     # UI design file
+ ┃ ┃ ┃ ┃ ┣ 📂 raw                     # Audio files
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜 cherry_cherry_lady.mp3
+ ┃ ┃ ┃ ┃ ┣ 📂 values                  # String, color, and dimension values
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜 strings.xml
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜 colors.xml
+ ┃ ┃ ┃ ┃ ┃ ┣ 📜 styles.xml
+ ┃ ┃ ┃ ┣ 📜 AndroidManifest.xml       # App Manifest file (Permissions, Activities)
+ ┃ ┣ 📜 build.gradle                  # Gradle configuration file
+ ┣ 📜 README.md                        # Project Documentation
+ ┣ 📜 .gitignore                        # Git Ignore file
+ ┣ 📜 gradle.properties                 # Gradle properties file
+ ┣ 📜 settings.gradle                   # Gradle settings
+ ┣ 📜 gradlew                            # Gradle wrapper script
 
